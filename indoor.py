@@ -5,6 +5,6 @@ def main():
 
 def lower(quiet_yell):
     print(f"dude why the flip are u yelling bro use your indoor voice, holy bum, say it quiet like {quiet_yell}")
-
+    return(quiet_yell)
 
 main()

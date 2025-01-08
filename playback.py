@@ -5,7 +5,7 @@ def main():
 
 def slower(slow_speech):
     print(f"naw i got u fool ill make u sloooooooow:  {slow_speech}")
-
+    return slow_speech
 
 
 
